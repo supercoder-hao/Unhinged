@@ -4,8 +4,9 @@ A data sorting algorithm matches those in search of love.
 This version of the store and search files have been tested to function on Visual Studio 2019.
 
 The provided executable can also be used to run the game, Additionally, the members.txt and translator.txt can be adjusted to test different amounts of traits or qualities.
-*members.txt follows a format of name, email, # of attributes/hobbies, and attributes/hobbies.
-*translator.txt follows a format of type,attribute adjacent to a compatible type,attribute combination.
+
+- members.txt follows a format of name, email, # of attributes/hobbies, and attributes/hobbies.
+- translator.txt follows a format of type,attribute adjacent to a compatible type,attribute combination.
 
 Details regarding the project specifications or documentation of my progress can be found in the appropriate .pdf documents.
 <p align="center">
