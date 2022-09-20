@@ -8,6 +8,12 @@ The provided executable can also be used to run the game, Additionally, the memb
 - members.txt follows a format of name, email, # of attributes/hobbies, and attributes/hobbies.
 - translator.txt follows a format of type,attribute adjacent to a compatible type,attribute combination.
 
+## How to Use Executable
+1. Enter an email address or create a new one with attributes from the translator.txt file from the members.txt file.
+2. Enter how many attributes you would like the compatiable pair to have.
+3. Watch as the computer sorts through thousands of profiles in mere seconds.<br>
+
+
 Details regarding the project specifications or documentation of my progress can be found in the appropriate .pdf documents.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99045459/190285271-79ad5400-9a4e-4e4d-84be-34b90042f707.png" width="855" height="576">
